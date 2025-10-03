@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AdsTriggerCompose</string>
+    <string name="admob_app_id"></string>
+    <string name="admob_interstitial_app_id"></string>
+    <string name="applovin_app_id"></string>
+    <string name="iron_source_app_id"></string>
+    <string name="tapjoy_app_id">-</string>
+    <string name="cpx_app_id"></string>
+    <string name="cpx_hash_secret"></string>
+</resources>
