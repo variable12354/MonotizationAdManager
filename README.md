@@ -9,6 +9,12 @@ This project demonstrates:
 ✅ Uses Dagger Hilt for Dependency Injection  
 ✅ Clean and modular architecture for adding new ad providers 
 
+# How to run and setup code
+## Just past your provider ids here and Ya that's it.
+<img width="574" height="263" alt="image" src="https://github.com/user-attachments/assets/1ce18e4e-7214-4188-b5f7-1471d8feacb3" />
+
+
+
 Contact me on:  [Linked In](https://www.linkedin.com/in/sarthak-brahmvar-0a648b1ab/)
 
 
